@@ -1,0 +1,90 @@
+[
+    {
+        "id": 33,
+        "commune": "Gombe",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "2EME REGION NAVALE",
+        "postalCode": "1003010"
+    },
+    {
+        "id": 34,
+        "commune": "Gombe",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "BATETELA",
+        "postalCode": "1003020"
+    },
+    {
+        "id": 35,
+        "commune": "Gombe",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "CLINIQUE",
+        "postalCode": "1003030"
+    },
+    {
+        "id": 36,
+        "commune": "Gombe",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "COMMERCE",
+        "postalCode": "1003040"
+    },
+    {
+        "id": 37,
+        "commune": "Gombe",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "CROIX ROUGE",
+        "postalCode": "1003050"
+    },
+    {
+        "id": 38,
+        "commune": "Gombe",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "FLEUVE",
+        "postalCode": "1003060"
+    },
+    {
+        "id": 39,
+        "commune": "Gombe",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "GARE",
+        "postalCode": "1003071"
+    },
+    {
+        "id": 40,
+        "commune": "Gombe",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "GOLF",
+        "postalCode": "1003080"
+    },
+    {
+        "id": 41,
+        "commune": "Gombe",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "HAUT COMMANDEMENT",
+        "postalCode": "1003091"
+    },
+    {
+        "id": 42,
+        "commune": "Gombe",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "LEMERA",
+        "postalCode": "1003101"
+    },
+    {
+        "id": 43,
+        "commune": "Gombe",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "REVOLUTION",
+        "postalCode": "1003110"
+    }
+]

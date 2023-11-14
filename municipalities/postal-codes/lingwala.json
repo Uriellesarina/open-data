@@ -1,0 +1,74 @@
+[
+    {
+        "id": 177,
+        "commune": "Lingwala",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "30 JUIN",
+        "postalCode": "1019010"
+    },
+    {
+        "id": 178,
+        "commune": "Lingwala",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "CAMP LUFUNGULA",
+        "postalCode": "1019020"
+    },
+    {
+        "id": 179,
+        "commune": "Lingwala",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "CNECI",
+        "postalCode": "1019030"
+    },
+    {
+        "id": 180,
+        "commune": "Lingwala",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "LA VOIX DU PEUPLE",
+        "postalCode": "1019040"
+    },
+    {
+        "id": 181,
+        "commune": "Lingwala",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "LOKOLE",
+        "postalCode": "1019050"
+    },
+    {
+        "id": 182,
+        "commune": "Lingwala",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "NGUNDA LOKOMBE",
+        "postalCode": "1019061"
+    },
+    {
+        "id": 183,
+        "commune": "Lingwala",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "PAKADJUMA",
+        "postalCode": "1019070"
+    },
+    {
+        "id": 184,
+        "commune": "Lingwala",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "SINGA MOPEPE",
+        "postalCode": "1019080"
+    },
+    {
+        "id": 185,
+        "commune": "Lingwala",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "WENZE LUFUNGULA",
+        "postalCode": "1019090"
+    }
+]

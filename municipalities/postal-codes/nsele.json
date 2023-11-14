@@ -1,0 +1,242 @@
+[
+    {
+        "id": 333,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "BIBWA",
+        "postalCode": "1006010"
+    },
+    {
+        "id": 334,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "BUMA",
+        "postalCode": "1006020"
+    },
+    {
+        "id": 335,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "CAMP BADARA",
+        "postalCode": "1006030"
+    },
+    {
+        "id": 336,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "CAMP CETA",
+        "postalCode": "1006040"
+    },
+    {
+        "id": 337,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "CAMP KIBOMANGO",
+        "postalCode": "1006050"
+    },
+    {
+        "id": 338,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "CAMP MIKONDO",
+        "postalCode": "1006060"
+    },
+    {
+        "id": 339,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "DINGI-DINGI",
+        "postalCode": "1006070"
+    },
+    {
+        "id": 340,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "DOMAINE",
+        "postalCode": "1006080"
+    },
+    {
+        "id": 341,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "FLEUVE",
+        "postalCode": "1006090"
+    },
+    {
+        "id": 342,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KIKIMI",
+        "postalCode": "1006100"
+    },
+    {
+        "id": 343,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KINDOBO ",
+        "postalCode": "1006110"
+    },
+    {
+        "id": 344,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KINKOLE BAHUMBU",
+        "postalCode": "1006120"
+    },
+    {
+        "id": 345,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KINKOLE  MIKALA I",
+        "postalCode": "1006131"
+    },
+    {
+        "id": 346,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KINKOLE MIKALA II",
+        "postalCode": "1006140"
+    },
+    {
+        "id": 347,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KINKOLE PECHEURS",
+        "postalCode": "1006151"
+    },
+    {
+        "id": 348,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MANGENGENGE",
+        "postalCode": "1006160"
+    },
+    {
+        "id": 349,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MIBO",
+        "postalCode": "1006170"
+    },
+    {
+        "id": 350,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MIKONDO",
+        "postalCode": "1006180"
+    },
+    {
+        "id": 351,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MIKONGA I",
+        "postalCode": "1006190"
+    },
+    {
+        "id": 352,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MIKONGA II",
+        "postalCode": "1006200"
+    },
+    {
+        "id": 353,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MPASA  I ",
+        "postalCode": "1006210"
+    },
+    {
+        "id": 354,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MPASA  II",
+        "postalCode": "1006220"
+    },
+    {
+        "id": 355,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MPASA MABA",
+        "postalCode": "1006230"
+    },
+    {
+        "id": 356,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MUNKE",
+        "postalCode": "1006240"
+    },
+    {
+        "id": 357,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MUNZIAMI",
+        "postalCode": "1006250"
+    },
+    {
+        "id": 358,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "NGANZI",
+        "postalCode": "1006260"
+    },
+    {
+        "id": 359,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "NGAPANA",
+        "postalCode": "1006270"
+    },
+    {
+        "id": 360,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "NGINGA",
+        "postalCode": "1006280"
+    },
+    {
+        "id": 361,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "SICOTRA LOKALI",
+        "postalCode": "1006290"
+    },
+    {
+        "id": 362,
+        "commune": "Nsele",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "TALANGAY",
+        "postalCode": "1006300"
+    }
+]

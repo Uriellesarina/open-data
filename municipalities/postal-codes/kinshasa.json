@@ -1,0 +1,58 @@
+[
+    {
+        "id": 124,
+        "commune": "Kinshasa",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "AKETI",
+        "postalCode": "1020010"
+    },
+    {
+        "id": 125,
+        "commune": "Kinshasa",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "BOYOMA",
+        "postalCode": "1020020"
+    },
+    {
+        "id": 126,
+        "commune": "Kinshasa",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "DJALO",
+        "postalCode": "1020030"
+    },
+    {
+        "id": 127,
+        "commune": "Kinshasa",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MADIMBA",
+        "postalCode": "1020040"
+    },
+    {
+        "id": 128,
+        "commune": "Kinshasa",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MONGALA",
+        "postalCode": "1020050"
+    },
+    {
+        "id": 129,
+        "commune": "Kinshasa",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "NGBAKA",
+        "postalCode": "1020061"
+    },
+    {
+        "id": 130,
+        "commune": "Kinshasa",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "PENDE",
+        "postalCode": "1020070"
+    }
+]

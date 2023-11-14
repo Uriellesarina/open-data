@@ -1,0 +1,90 @@
+[
+    {
+        "id": 9,
+        "commune": "Barumbu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "BITSHAKU-TSHAKU",
+        "postalCode": "1021010"
+    },
+    {
+        "id": 10,
+        "commune": "Barumbu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "CAMP PILOTE MBAKI",
+        "postalCode": "1021020"
+    },
+    {
+        "id": 11,
+        "commune": "Barumbu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "CAMP NDOLO",
+        "postalCode": "1021030"
+    },
+    {
+        "id": 12,
+        "commune": "Barumbu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "FUNA I",
+        "postalCode": "1021040"
+    },
+    {
+        "id": 13,
+        "commune": "Barumbu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "FUNA II",
+        "postalCode": "1021050"
+    },
+    {
+        "id": 14,
+        "commune": "Barumbu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KAPINGA BAPO",
+        "postalCode": "1021060"
+    },
+    {
+        "id": 15,
+        "commune": "Barumbu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KASAI",
+        "postalCode": "1021070"
+    },
+    {
+        "id": 16,
+        "commune": "Barumbu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "LIBULU",
+        "postalCode": "1021081"
+    },
+    {
+        "id": 17,
+        "commune": "Barumbu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MOZINDO",
+        "postalCode": "1021090"
+    },
+    {
+        "id": 18,
+        "commune": "Barumbu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "NDOLO",
+        "postalCode": "1021101"
+    },
+    {
+        "id": 19,
+        "commune": "Barumbu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "TSHIMANGA",
+        "postalCode": "1021110"
+    }
+]

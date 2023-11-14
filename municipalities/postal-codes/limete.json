@@ -1,0 +1,115 @@
+[
+    {
+        "id": 163,
+        "commune": "Limete",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "AGRICOLE",
+        "postalCode": "1004010"
+    },
+    {
+        "id": 164,
+        "commune": "Limete",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "INDUSTRIEL",
+        "postalCode": "1004020"
+    },
+    {
+        "id": 165,
+        "commune": "Limete",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KINGABWA",
+        "postalCode": "1004030"
+    },
+    {
+        "id": 166,
+        "commune": "Limete",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MATEBA",
+        "postalCode": "1004040"
+    },
+    {
+        "id": 167,
+        "commune": "Limete",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MASIALA",
+        "postalCode": "1004050"
+    },
+    {
+        "id": 168,
+        "commune": "Limete",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MAYULU",
+        "postalCode": "1004060"
+    },
+    {
+        "id": 169,
+        "commune": "Limete",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MBAMBU",
+        "postalCode": "1004070"
+    },
+    {
+        "id": 170,
+        "commune": "Limete",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MFUMU MVULA",
+        "postalCode": "1004080"
+    },
+    {
+        "id": 171,
+        "commune": "Limete",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MOMBELE",
+        "postalCode": "1004090"
+    },
+    {
+        "id": 172,
+        "commune": "Limete",
+
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MOSOSO",
+        "postalCode": "1004100"
+    },
+    {
+        "id": 173,
+        "commune": "Limete",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "NDANU",
+        "postalCode": "1004110"
+    },
+    {
+        "id": 174,
+        "commune": "Limete",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "NZADI",
+        "postalCode": "1004120"
+    },
+    {
+        "id": 175,
+        "commune": "Limete",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "RESIDENTIEL ",
+        "postalCode": "1004131"
+    },
+    {
+        "id": 176,
+        "commune": "Limete",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "SALONGO",
+        "postalCode": "1004140"
+    }
+]

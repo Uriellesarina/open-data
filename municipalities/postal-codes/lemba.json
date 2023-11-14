@@ -1,0 +1,266 @@
+[
+    {
+        "id": 148,
+        "commune": "Lemba",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "CAMP KABILA",
+        "postalCode": "1012010"
+    },
+    {
+        "id": 149,
+        "commune": "Lemba",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "CAMP OSS",
+        "postalCode": "1012020"
+    },
+    {
+        "id": 150,
+        "commune": "Lemba",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "COMMERCIAL",
+        "postalCode": "1012030"
+    },
+    {
+        "id": 151,
+        "commune": "Lemba",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "ECHANGEUR",
+        "postalCode": "1012040"
+    },
+    {
+        "id": 152,
+        "commune": "Lemba",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "ECOLE",
+        "postalCode": "1012050"
+    },
+    {
+        "id": 153,
+        "commune": "Lemba",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "FOIRE",
+        "postalCode": "1012060"
+    },
+    {
+        "id": 154,
+        "commune": "Lemba",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "GOMBELE",
+        "postalCode": "1012070"
+    },
+    {
+        "id": 155,
+        "commune": "Lemba",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KIMI RIGHINI",
+        "postalCode": "1012080"
+    },
+    {
+        "id": 156,
+        "commune": "Lemba",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KIMPWANZA",
+        "postalCode": "1012090"
+    },
+    {
+        "id": 157,
+        "commune": "Lemba",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "LIVULU",
+        "postalCode": "1012100"
+    },
+    {
+        "id": 158,
+        "commune": "Lemba",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MADRANDELE",
+        "postalCode": "1012111"
+    },
+    {
+        "id": 159,
+        "commune": "Lemba",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MASANO",
+        "postalCode": "1012120"
+    },
+    {
+        "id": 160,
+        "commune": "Lemba",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MBANZA LEMBA",
+        "postalCode": "1012131"
+    },
+    {
+        "id": 161,
+        "commune": "Lemba",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MOLO",
+        "postalCode": "1012140"
+    },
+    {
+        "id": 162,
+        "commune": "Lemba",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "SALONGO",
+        "postalCode": "1012150"
+    },
+    {
+        "id": 363,
+        "commune": "Selembao",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "BADIADINGI",
+        "postalCode": "1016010"
+    },
+    {
+        "id": 364,
+        "commune": "Selembao",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "CITE-VERTE",
+        "postalCode": "1016020"
+    },
+    {
+        "id": 365,
+        "commune": "Selembao",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "HERADY",
+        "postalCode": "1016030"
+    },
+    {
+        "id": 366,
+        "commune": "Selembao",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "INGA",
+        "postalCode": "1016040"
+    },
+    {
+        "id": 367,
+        "commune": "Selembao",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KALUNGA",
+        "postalCode": "1016050"
+    },
+    {
+        "id": 368,
+        "commune": "Selembao",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KONDE",
+        "postalCode": "1016060"
+    },
+    {
+        "id": 369,
+        "commune": "Selembao",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "LIBERATION",
+        "postalCode": "1016070"
+    },
+    {
+        "id": 370,
+        "commune": "Selembao",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "LUBUDI",
+        "postalCode": "1016080"
+    },
+    {
+        "id": 371,
+        "commune": "Selembao",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MADIATA",
+        "postalCode": "1016090"
+    },
+    {
+        "id": 372,
+        "commune": "Selembao",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MBALA",
+        "postalCode": "1016100"
+    },
+    {
+        "id": 373,
+        "commune": "Selembao",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MOLENDE",
+        "postalCode": "1016110"
+    },
+    {
+        "id": 374,
+        "commune": "Selembao",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MPULULU MBAMBU",
+        "postalCode": "1016120"
+    },
+    {
+        "id": 375,
+        "commune": "Selembao",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MWNA NTUNU",
+        "postalCode": "1016130"
+    },
+    {
+        "id": 376,
+        "commune": "Selembao",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "NDOBE",
+        "postalCode": "1016140"
+    },
+    {
+        "id": 377,
+        "commune": "Selembao",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "NGAFANI",
+        "postalCode": "1016150"
+    },
+    {
+        "id": 378,
+        "commune": "Selembao",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "NKOMBE",
+        "postalCode": "1016160"
+    },
+    {
+        "id": 379,
+        "commune": "Selembao",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "NKINGU",
+        "postalCode": "1016170"
+    },
+    {
+        "id": 380,
+        "commune": "Selembao",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "NKULU",
+        "postalCode": "1016180"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "id": 325,
+        "commune": "Ngiri-Ngiri",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "24 NOVEMBRE",
+        "postalCode": "1023010"
+    },
+    {
+        "id": 326,
+        "commune": "Ngiri-Ngiri",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "ASSOSSA",
+        "postalCode": "1023021"
+    },
+    {
+        "id": 327,
+        "commune": "Ngiri-Ngiri",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "CARTHOUMS",
+        "postalCode": "1023030"
+    },
+    {
+        "id": 328,
+        "commune": "Ngiri-Ngiri",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "DIANGENDA",
+        "postalCode": "1023040"
+    },
+    {
+        "id": 329,
+        "commune": "Ngiri-Ngiri",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "DIOMI",
+        "postalCode": "1023050"
+    },
+    {
+        "id": 330,
+        "commune": "Ngiri-Ngiri",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "ELENGESA",
+        "postalCode": "1023060"
+    },
+    {
+        "id": 331,
+        "commune": "Ngiri-Ngiri",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "PETIT-PETIT",
+        "postalCode": "1023070"
+    },
+    {
+        "id": 332,
+        "commune": "Ngiri-Ngiri",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "SAIO",
+        "postalCode": "1023080"
+    }
+]

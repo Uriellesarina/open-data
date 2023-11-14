@@ -1,0 +1,50 @@
+[
+    {
+        "id": 292,
+        "commune": "Ngaba",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "BAOBAB",
+        "postalCode": "1013011"
+    },
+    {
+        "id": 293,
+        "commune": "Ngaba",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "BULAMBEMBA",
+        "postalCode": "1013020"
+    },
+    {
+        "id": 294,
+        "commune": "Ngaba",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "LUYI",
+        "postalCode": "1013030"
+    },
+    {
+        "id": 295,
+        "commune": "Ngaba",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MATEBA",
+        "postalCode": "1013040"
+    },
+    {
+        "id": 296,
+        "commune": "Ngaba",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MPILA",
+        "postalCode": "1013050"
+    },
+    {
+        "id": 297,
+        "commune": "Ngaba",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MUKULUA",
+        "postalCode": "1013060"
+    }
+]

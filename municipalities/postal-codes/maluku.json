@@ -1,0 +1,162 @@
+[
+    {
+        "id": 204,
+        "commune": "Maluku",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "BU",
+        "postalCode": "1007010"
+    },
+    {
+        "id": 205,
+        "commune": "Maluku",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "DUMI",
+        "postalCode": "1007020"
+    },
+    {
+        "id": 206,
+        "commune": "Maluku",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "CAMP MONAKO",
+        "postalCode": "1007031"
+    },
+    {
+        "id": 207,
+        "commune": "Maluku",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KIKIMI",
+        "postalCode": "1007040"
+    },
+    {
+        "id": 208,
+        "commune": "Maluku",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KIMPOKO",
+        "postalCode": "1007050"
+    },
+    {
+        "id": 209,
+        "commune": "Maluku",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KINGAKATI",
+        "postalCode": "1007060"
+    },
+    {
+        "id": 210,
+        "commune": "Maluku",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KINGUNU",
+        "postalCode": "1007070"
+    },
+    {
+        "id": 211,
+        "commune": "Maluku",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KINZONO",
+        "postalCode": "1007080"
+    },
+    {
+        "id": 212,
+        "commune": "Maluku",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MAYI-NDOMBE",
+        "postalCode": "1007090"
+    },
+    {
+        "id": 213,
+        "commune": "Maluku",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MALUKU",
+        "postalCode": "1007100"
+    },
+    {
+        "id": 214,
+        "commune": "Maluku",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MANGENGENGE",
+        "postalCode": "1007110"
+    },
+    {
+        "id": 215,
+        "commune": "Maluku",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MBAKANA",
+        "postalCode": "1007120"
+    },
+    {
+        "id": 216,
+        "commune": "Maluku",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MENKAO",
+        "postalCode": "1007130"
+    },
+    {
+        "id": 217,
+        "commune": "Maluku",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MONAKO",
+        "postalCode": "1007140"
+    },
+    {
+        "id": 218,
+        "commune": "Maluku",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MONGATA",
+        "postalCode": "1007150"
+    },
+    {
+        "id": 219,
+        "commune": "Maluku",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MWE",
+        "postalCode": "1007160"
+    },
+    {
+        "id": 220,
+        "commune": "Maluku",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "NGANA",
+        "postalCode": "1007170"
+    },
+    {
+        "id": 221,
+        "commune": "Maluku",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "NGUMA",
+        "postalCode": "1007180"
+    },
+    {
+        "id": 222,
+        "commune": "Maluku",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "YOSSO",
+        "postalCode": "1007190"
+    },
+    {
+        "id": 223,
+        "commune": "Maluku",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "YUO",
+        "postalCode": "1007200"
+    }
+]

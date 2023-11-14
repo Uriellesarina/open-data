@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "commune": "Bandalungwa",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "ADOULA",
+        "postalCode": "1018011"
+    },
+    {
+        "id": 2,
+        "commune": "Bandalungwa",
+
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "BISENGO",
+        "postalCode": "1018020"
+    },
+    {
+        "id": 3,
+        "commune": "Bandalungwa",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "CAMP KOKOLO",
+        "postalCode": "1018030"
+    },
+    {
+        "id": 4,
+        "commune": "Bandalungwa",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KASA-VUBU",
+        "postalCode": "1018040"
+    },
+    {
+        "id": 5,
+        "commune": "Bandalungwa",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "LINGWALA",
+        "postalCode": "1018050"
+    },
+    {
+        "id": 6,
+        "commune": "Bandalungwa",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "LUBUDI",
+        "postalCode": "1018060"
+    },
+    {
+        "id": 7,
+        "commune": "Bandalungwa",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "LUMUMBA",
+        "postalCode": "1018070"
+    },
+    {
+        "id": 8,
+        "commune": "Bandalungwa",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MAKELELE",
+        "postalCode": "1018080"
+    }
+]

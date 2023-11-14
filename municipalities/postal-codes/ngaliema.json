@@ -1,0 +1,218 @@
+[
+    {
+        "id": 298,
+        "commune": "Ngaliema",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "ANCIENS-COMBATANTS",
+        "postalCode": "1002010"
+    },
+    {
+        "id": 299,
+        "commune": "Ngaliema",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "BANGU",
+        "postalCode": "1002020"
+    },
+    {
+        "id": 300,
+        "commune": "Ngaliema",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "BASOKO",
+        "postalCode": "1002030"
+    },
+    {
+        "id": 301,
+        "commune": "Ngaliema",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "BINZA PIGEON",
+        "postalCode": "1002040"
+    },
+    {
+        "id": 302,
+        "commune": "Ngaliema",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "BUMBA",
+        "postalCode": "1002050"
+    },
+    {
+        "id": 303,
+        "commune": "Ngaliema",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "CAMP BADIADINGI",
+        "postalCode": "1002060"
+    },
+    {
+        "id": 304,
+        "commune": "Ngaliema",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "CAMP COLONEL EBEYA",
+        "postalCode": "1002070"
+    },
+    {
+        "id": 305,
+        "commune": "Ngaliema",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "CAMP LOANO",
+        "postalCode": "1002080"
+    },
+    {
+        "id": 306,
+        "commune": "Ngaliema",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "CAMP MOBILE BASOKO",
+        "postalCode": "1002090"
+    },
+    {
+        "id": 307,
+        "commune": "Ngaliema",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "CAMP OUA",
+        "postalCode": "1002100"
+    },
+    {
+        "id": 308,
+        "commune": "Ngaliema",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "CAMP TSHATSHI",
+        "postalCode": "1002110"
+    },
+    {
+        "id": 309,
+        "commune": "Ngaliema",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "CONGO",
+        "postalCode": "1002120"
+    },
+    {
+        "id": 310,
+        "commune": "Ngaliema",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "DJELO BINZA",
+        "postalCode": "1002130"
+    },
+    {
+        "id": 311,
+        "commune": "Ngaliema",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "JOLI PARC",
+        "postalCode": "1002141"
+    },
+    {
+        "id": 312,
+        "commune": "Ngaliema",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KIMPE",
+        "postalCode": "1002150"
+    },
+    {
+        "id": 313,
+        "commune": "Ngaliema",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KINKENDA",
+        "postalCode": "1002160"
+    },
+    {
+        "id": 314,
+        "commune": "Ngaliema",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KINSUKA PECHEURS",
+        "postalCode": "1002170"
+    },
+    {
+        "id": 315,
+        "commune": "Ngaliema",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "LONZO",
+        "postalCode": "1002180"
+    },
+    {
+        "id": 316,
+        "commune": "Ngaliema",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "LUBUDI",
+        "postalCode": "1002190"
+    },
+    {
+        "id": 317,
+        "commune": "Ngaliema",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "LUKUNGA",
+        "postalCode": "1002200"
+    },
+    {
+        "id": 318,
+        "commune": "Ngaliema",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MAMA YEMO",
+        "postalCode": "1002210"
+    },
+    {
+        "id": 319,
+        "commune": "Ngaliema",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MAMENGA",
+        "postalCode": "1002220"
+    },
+    {
+        "id": 320,
+        "commune": "Ngaliema",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MFINGA",
+        "postalCode": "1002230"
+    },
+    {
+        "id": 321,
+        "commune": "Ngaliema",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MUNGANGA",
+        "postalCode": "1002240"
+    },
+    {
+        "id": 322,
+        "commune": "Ngaliema",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MUSEYI",
+        "postalCode": "1002250"
+    },
+    {
+        "id": 323,
+        "commune": "Ngaliema",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "NGOMBA KIKUSA",
+        "postalCode": "1002260"
+    },
+    {
+        "id": 324,
+        "commune": "Ngaliema",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "PUNDA",
+        "postalCode": "1002270"
+    }
+]

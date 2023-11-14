@@ -1,0 +1,106 @@
+[
+    {
+        "id": 224,
+        "commune": "Matete",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "DONDO",
+        "postalCode": "1010010"
+    },
+    {
+        "id": 225,
+        "commune": "Matete",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "LOEKA",
+        "postalCode": "1010020"
+    },
+    {
+        "id": 226,
+        "commune": "Matete",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "LUBEFU",
+        "postalCode": "1010030"
+    },
+    {
+        "id": 227,
+        "commune": "Matete",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "LUKUNGA",
+        "postalCode": "1010040"
+    },
+    {
+        "id": 228,
+        "commune": "Matete",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "LUMUMBA",
+        "postalCode": "1010050"
+    },
+    {
+        "id": 229,
+        "commune": "Matete",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "LUNIOZO",
+        "postalCode": "1010060"
+    },
+    {
+        "id": 230,
+        "commune": "Matete",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MALEMBA",
+        "postalCode": "1010070"
+    },
+    {
+        "id": 231,
+        "commune": "Matete",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MAZIBA",
+        "postalCode": "1010080"
+    },
+    {
+        "id": 232,
+        "commune": "Matete",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MBAMB IPOKU",
+        "postalCode": "1010091"
+    },
+    {
+        "id": 233,
+        "commune": "Matete",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "SANKURU",
+        "postalCode": "1010100"
+    },
+    {
+        "id": 234,
+        "commune": "Matete",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "SUMBUKA",
+        "postalCode": "1010110"
+    },
+    {
+        "id": 235,
+        "commune": "Matete",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "TOTAKA",
+        "postalCode": "1010120"
+    },
+    {
+        "id": 236,
+        "commune": "Matete",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "VIVI",
+        "postalCode": "1010130"
+    }
+]

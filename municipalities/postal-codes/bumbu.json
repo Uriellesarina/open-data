@@ -1,0 +1,106 @@
+[
+    {
+        "id": 20,
+        "commune": "Bumbu", 
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "CAMP LIEUTENANT MBAKI",
+        "postalCode": "1015010"
+    },
+    {
+        "id": 21,
+        "commune": "Bumbu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "DIPIYA",
+        "postalCode": "1015020"
+    },
+    {
+        "id": 22,
+        "commune": "Bumbu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KASAI",
+        "postalCode": "1015030"
+    },
+    {
+        "id": 23,
+        "commune": "Bumbu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KWANGO",
+        "postalCode": "1015040"
+    },
+    {
+        "id": 24,
+        "commune": "Bumbu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "LOKORO",
+        "postalCode": "1015050"
+    },
+    {
+        "id": 25,
+        "commune": "Bumbu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "LUKENI",
+        "postalCode": "1015060"
+    },
+    {
+        "id": 26,
+        "commune": "Bumbu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MAI-NDOMBE",
+        "postalCode": "1015070"
+    },
+    {
+        "id": 27,
+        "commune": "Bumbu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MATADI",
+        "postalCode": "1015080"
+    },
+    {
+        "id": 28,
+        "commune": "Bumbu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MBANDAKA",
+        "postalCode": "1015090"
+    },
+    {
+        "id": 29,
+        "commune": "Bumbu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MFIMI",
+        "postalCode": "1015100"
+    },
+    {
+        "id": 30,
+        "commune": "Bumbu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MONGALA",
+        "postalCode": "1015110"
+    },
+    {
+        "id": 31,
+        "commune": "Bumbu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "NTOMBA",
+        "postalCode": "1015120"
+    },
+    {
+        "id": 32,
+        "commune": "Bumbu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "UBANGI",
+        "postalCode": "1015130"
+    }
+]

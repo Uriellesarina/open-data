@@ -1,0 +1,58 @@
+[
+    {
+        "id": 62,
+        "commune": "Kasa-Vubu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "ANCIENS COMBATANTS",
+        "postalCode": "1024010"
+    },
+    {
+        "id": 63,
+        "commune": "Kasa-Vubu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "ASSOSA",
+        "postalCode": "1024021"
+    },
+    {
+        "id": 64,
+        "commune": "Kasa-Vubu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KATANGA SHABA",
+        "postalCode": "1024030"
+    },
+    {
+        "id": 65,
+        "commune": "Kasa-Vubu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "LODJA",
+        "postalCode": "1024040"
+    },
+    {
+        "id": 66,
+        "commune": "Kasa-Vubu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "LUBUMBASHI",
+        "postalCode": "1024051"
+    },
+    {
+        "id": 67,
+        "commune": "Kasa-Vubu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "O N L",
+        "postalCode": "1024060"
+    },
+    {
+        "id": 68,
+        "commune": "Kasa-Vubu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "SALONGO",
+        "postalCode": "1024070"
+    }
+]

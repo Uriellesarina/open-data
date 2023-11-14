@@ -1,0 +1,146 @@
+[
+    {
+        "id": 44,
+        "commune": "Kalamu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "IMMO-CONGO",
+        "postalCode": "1022010"
+    },
+    {
+        "id": 45,
+        "commune": "Kalamu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KAUKA I",
+        "postalCode": "1022020"
+    },
+    {
+        "id": 46,
+        "commune": "Kalamu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KAUKA II ",
+        "postalCode": "1022030"
+    },
+    {
+        "id": 47,
+        "commune": "Kalamu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KAUKA III",
+        "postalCode": "1022040"
+    },
+    {
+        "id": 48,
+        "commune": "Kalamu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KIMBANGU I",
+        "postalCode": "1022050"
+    },
+    {
+        "id": 49,
+        "commune": "Kalamu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KIMBANGU II",
+        "postalCode": "1022060"
+    },
+    {
+        "id": 50,
+        "commune": "Kalamu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KIMBANGU III",
+        "postalCode": "1022070"
+    },
+    {
+        "id": 51,
+        "commune": "Kalamu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MATONGE I",
+        "postalCode": "1022080"
+    },
+    {
+        "id": 52,
+        "commune": "Kalamu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MATONGE II",
+        "postalCode": "1022091"
+    },
+    {
+        "id": 53,
+        "commune": "Kalamu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MATONGE III",
+        "postalCode": "1022100"
+    },
+    {
+        "id": 54,
+        "commune": "Kalamu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "PINZI",
+        "postalCode": "1022110"
+    },
+    {
+        "id": 55,
+        "commune": "Kalamu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "YOLO-NORD I",
+        "postalCode": "1022120"
+    },
+    {
+        "id": 56,
+        "commune": "Kalamu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "YOLO-NORD II",
+        "postalCode": "1022130"
+    },
+    {
+        "id": 57,
+        "commune": "Kalamu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "YOLO-NORD III",
+        "postalCode": "1022140"
+    },
+    {
+        "id": 58,
+        "commune": "Kalamu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "YOLO-SUD I",
+        "postalCode": "1022150"
+    },
+    {
+        "id": 59,
+        "commune": "Kalamu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "YOLO-SUD II",
+        "postalCode": "1022160"
+    },
+    {
+        "id": 60,
+        "commune": "Kalamu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "YOLO-SUD III",
+        "postalCode": "1022170"
+    },
+    {
+        "id": 61,
+        "commune": "Kalamu",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "YOLO-SUD IV",
+        "postalCode": "1022180"
+    }
+]

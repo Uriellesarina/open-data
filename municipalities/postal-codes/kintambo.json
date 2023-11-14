@@ -1,0 +1,74 @@
+[
+    {
+        "id": 115,
+        "commune": "Kintambo",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "ITIMBIRI",
+        "postalCode": "1017010"
+    },
+    {
+        "id": 116,
+        "commune": "Kintambo",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KILIMANI",
+        "postalCode": "1017021"
+    },
+    {
+        "id": 117,
+        "commune": "Kintambo",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "LISALA I",
+        "postalCode": "1017030"
+    },
+    {
+        "id": 118,
+        "commune": "Kintambo",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "LISALA II",
+        "postalCode": "1017040"
+    },
+    {
+        "id": 119,
+        "commune": "Kintambo",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "LUBUDI LUKA",
+        "postalCode": "1017050"
+    },
+    {
+        "id": 120,
+        "commune": "Kintambo",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "LUBUDI NGANDU",
+        "postalCode": "1017060"
+    },
+    {
+        "id": 121,
+        "commune": "Kintambo",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "SALONGO",
+        "postalCode": "1017070"
+    },
+    {
+        "id": 122,
+        "commune": "Kintambo",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "TSHINKELA",
+        "postalCode": "1017080"
+    },
+    {
+        "id": 123,
+        "commune": "Kintambo",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "WENZE",
+        "postalCode": "1017090"
+    }
+]

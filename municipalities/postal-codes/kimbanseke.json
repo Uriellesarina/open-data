@@ -1,0 +1,370 @@
+[
+    {
+        "id": 69,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "BAHUMBU",
+        "postalCode": "1008010"
+    },
+    {
+        "id": 70,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "BAMBOMA",
+        "postalCode": "1008020"
+    },
+    {
+        "id": 71,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "BATUMONA",
+        "postalCode": "1008030"
+    },
+    {
+        "id": 72,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "BIKUKU",
+        "postalCode": "1008040"
+    },
+    {
+        "id": 73,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "BIYELA",
+        "postalCode": "1008050"
+    },
+    {
+        "id": 74,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "BOMA",
+        "postalCode": "1008060"
+    },
+    {
+        "id": 75,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "DISASI",
+        "postalCode": "1008070"
+    },
+    {
+        "id": 76,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "ESANGA",
+        "postalCode": "1008080"
+    },
+    {
+        "id": 77,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KABILA",
+        "postalCode": "1008090"
+    },
+    {
+        "id": 78,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KAKUDJI",
+        "postalCode": "1008100"
+    },
+    {
+        "id": 79,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KAMBA MULUMBA ",
+        "postalCode": "1008110"
+    },
+    {
+        "id": 80,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KAMBOKO",
+        "postalCode": "1008120"
+    },
+    {
+        "id": 81,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KASA-VUBU",
+        "postalCode": "1008130"
+    },
+    {
+        "id": 82,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KAYOLO",
+        "postalCode": "1008140"
+    },
+    {
+        "id": 83,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KIKIMI",
+        "postalCode": "1008150"
+    },
+    {
+        "id": 84,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KIMBUNDI",
+        "postalCode": "1008160"
+    },
+    {
+        "id": 85,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KINGASANI",
+        "postalCode": "1008170"
+    },
+    {
+        "id": 86,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KISANTU",
+        "postalCode": "1008180"
+    },
+    {
+        "id": 87,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "KUTU",
+        "postalCode": "1008190"
+    },
+    {
+        "id": 88,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "LUEBO",
+        "postalCode": "1008200"
+    },
+    {
+        "id": 89,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MABINDA",
+        "postalCode": "1008210"
+    },
+    {
+        "id": 90,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MALONDA",
+        "postalCode": "1008220"
+    },
+    {
+        "id": 91,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MARECHAL  17 MAI",
+        "postalCode": "1008230"
+    },
+    {
+        "id": 92,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MONGANA",
+        "postalCode": "1008240"
+    },
+    {
+        "id": 93,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MAVIOKELE",
+        "postalCode": "1008250"
+    },
+    {
+        "id": 94,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MAYENGELE",
+        "postalCode": "1008260"
+    },
+    {
+        "id": 95,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MBEMBA FUNDU",
+        "postalCode": "1008270"
+    },
+    {
+        "id": 96,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MBWALA",
+        "postalCode": "1008280"
+    },
+    {
+        "id": 97,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MFUMU NKETO",
+        "postalCode": "1008290"
+    },
+    {
+        "id": 98,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MIKONDO",
+        "postalCode": "1008300"
+    },
+    {
+        "id": 99,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MOKALI",
+        "postalCode": "1008310"
+    },
+    {
+        "id": 100,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MULIE",
+        "postalCode": "1008320"
+    },
+    {
+        "id": 101,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "MUNKANKA",
+        "postalCode": "1008330"
+    },
+    {
+        "id": 102,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "NGAMA YAMA",
+        "postalCode": "1008340"
+    },
+    {
+        "id": 103,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "NGAMAZITA",
+        "postalCode": "1008350"
+    },
+    {
+        "id": 104,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "NGAMPANI",
+        "postalCode": "1008360"
+    },
+    {
+        "id": 105,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "NGANDU",
+        "postalCode": "1008370"
+    },
+    {
+        "id": 106,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "NGIESI",
+        "postalCode": "1008380"
+    },
+    {
+        "id": 107,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "NSANGA",
+        "postalCode": "1008390"
+    },
+    {
+        "id": 108,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "NZUMBWA",
+        "postalCode": "1008400"
+    },
+    {
+        "id": 109,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "PANDA–NZILA",
+        "postalCode": "1008410"
+    },
+    {
+        "id": 110,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "PIERRE MFOKOM",
+        "postalCode": "1008420"
+    },
+    {
+        "id": 111,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "REVOLUTION",
+        "postalCode": "1008430"
+    },
+    {
+        "id": 112,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "SAKOMBI",
+        "postalCode": "1008440"
+    },
+    {
+        "id": 113,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "SALONGO",
+        "postalCode": "1008450"
+    },
+    {
+        "id": 114,
+        "commune": "Kimbanseke",
+        "province": "Kinshasa",
+        "country": "RDC",
+        "neighbourhood": "WAYA–WAYA",
+        "postalCode": "1008460"
+    }
+]
